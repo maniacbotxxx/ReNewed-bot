@@ -406,8 +406,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('search here movie', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('updates', url='https://t.me/josprojects'),
-            InlineKeyboardButton('movie club', url='https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('latest movie Updates', url='https://t.me/Moviedroidnew'),
+            InlineKeyboardButton('Moviedroid request', url='https://t.me/Mdgrp0')
             ],[
             InlineKeyboardButton('✗ Close the Menu ✗', callback_data='close_data')
         ]]
